@@ -9,7 +9,6 @@ Taller-TS-1 es un proyecto enfocado en gestionar y mostrar información sobre se
 - [Características](#características)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Instalación
 Para configurar el proyecto localmente, sigue estos pasos:
@@ -52,5 +51,3 @@ El repositorio se compone de múltiples archivos y directorios, principalmente:
 4. Sube los cambios a la rama (`git push origin feature-branch`).
 5. Abre un pull request.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
