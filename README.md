@@ -2,6 +2,8 @@
 
 ## Descripción del Proyecto
 Taller-TS-1 es un proyecto enfocado en gestionar y mostrar información sobre series de televisión. La aplicación está construida principalmente usando TypeScript, con componentes adicionales en HTML, JavaScript y CSS.
+![image](https://github.com/user-attachments/assets/6c52225c-930d-4b04-9a90-2404c1ba07db)
+
 
 ## Tabla de Contenidos
 - [Instalación](#instalación)
