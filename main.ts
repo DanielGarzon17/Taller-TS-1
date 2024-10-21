@@ -2,7 +2,7 @@ import { data } from './data.js';
 
 const table:HTMLTableElement = document.getElementById('rows') as HTMLTableElement;
 
-let promedio = (data.reduce((acc, serie) => acc + serie.seasons, 0) / data.length);
+let average = (data.reduce((acc, serie) => acc + serie.seasons, 0) / data.length);
 
 data.forEach(series => {
     const row:HTMLTableRowElement = table.insertRow();
@@ -13,4 +13,4 @@ data.forEach(series => {
 });
 
 const row:HTMLTableRowElement = table.insertRow();
-row.innerHTML = `<td class="table-active" colspan="4">Promedio de temporadas: ${promedio}</td>`;    
+row.innerHTML = `<td class="table-active" colspan="4">Seasons Average: ${average}</td>`;    
